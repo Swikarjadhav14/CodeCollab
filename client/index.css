@@ -1,0 +1,18 @@
+#textBox {
+    width: 70%; /* Adjust the width as needed */
+    height: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none; 
+  }
+
+#copyButton {
+    font-size:30px;                                              
+}
+
+#outputContainer {
+    font-size:23px;
+}
